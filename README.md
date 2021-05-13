@@ -10,4 +10,7 @@ Cancer is a dreadful disease. 80% to 90% of all cancers are the result of the th
 We can use the technology for the early detection of breast cancer, so that it helps the patient to consult with the doctor as early as possible. I also had added the section where user can submit their report to the nearest doctor available in the database. This repository contain the code for deploying ml model in django rst framework.
 You can view the project at :- 
 
-[Prekure12](https://prekure12.herokuapp.com/)
+Visit the website by clicking on this link:- [Vist the website](https://prekure12.herokuapp.com/)
+
+
+Watch the project video at:- [Project video](https://youtu.be/xxm_k3sQGOQ)
